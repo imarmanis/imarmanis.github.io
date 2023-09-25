@@ -15,3 +15,18 @@ My advisor is [Viktor Vafeiadis](https://www.mpi-sws.org/~viktor).
 I'm broadly interested in programming languages and software verification,
 and more specifically in model checking concurrent software under
 weak memory models.
+
+## Publications
+
+- Optimal Bounded Partial Order Reduction **FMCAD'23 (to appear)**\
+    Iason Marmanis, Viktor Vafeiadis
+- [Unblocking Dynamic Partial Order Reduction](https://doi.org/10.1007/978-3-031-37706-8_12) **CAV'23**\
+    Michalis Kokologiannakis, Iason Marmanis, Viktor Vafeiadis
+- [Reconciling preemption bounding with DPOR](https://doi.org/10.1007/978-3-031-30823-9_5) **TACAS'23**\
+    Iason Marmanis, Michalis Kokologiannakis, Viktor Vafeiadis
+- [SMT-Based Verification of Persistency Invariants of Px86 Programs](https://doi.org/10.1007/978-3-031-25803-9_6) **VSTEE'22**\
+    Iason Marmanis, Viktor Vafeiadis
+- [Truly stateless, optimal dynamic partial order reduction](https://doi.org/10.1145/3498711) **POPL'22**\
+    Michalis Kokologiannakis, Iason Marmanis, Vladimir Gladstein, Viktor Vafeiadis
+
+See also [dblp](https://dblp.org/pid/313/0290.html).
