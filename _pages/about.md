@@ -18,7 +18,7 @@ weak memory models.
 
 ## Publications
 
-- Optimal Bounded Partial Order Reduction **FMCAD'23 (to appear)**\
+- [Optimal Bounded Partial Order Reduction](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_16) **FMCAD'23**\
     Iason Marmanis, Viktor Vafeiadis
 - [Unblocking Dynamic Partial Order Reduction](https://doi.org/10.1007/978-3-031-37706-8_12) **CAV'23**\
     Michalis Kokologiannakis<sup>\*</sup>, Iason Marmanis<sup>\*</sup>, Viktor Vafeiadis
