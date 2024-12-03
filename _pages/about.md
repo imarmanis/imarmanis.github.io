@@ -16,8 +16,10 @@ I'm broadly interested in programming languages and software verification,
 and more specifically in model checking concurrent software under
 weak memory models.
 
-## Publications
+## [Publications](https://dblp.org/pid/313/0290.html)
 
+- [Model Checking C/C++ with Mixed-Size Accesses](https://dl.acm.org/doi/10.1145/3704911)  **POPL'25, to appear**\
+    Iason Marmanis, Michalis Kokologiannakis, Viktor Vafeiadis
 - [Spore: Combining Symmetry and Partial Order Reduction](https://dl.acm.org/doi/10.1145/3656449) **PLDI'24**\
     Michalis Kokologiannakis<sup>\*</sup>, Iason Marmanis<sup>\*</sup>, Viktor Vafeiadis
 - [Optimal Bounded Partial Order Reduction](https://doi.org/10.34727/2023/isbn.978-3-85448-060-0_16) **FMCAD'23**\
@@ -32,5 +34,3 @@ weak memory models.
     Michalis Kokologiannakis, Iason Marmanis, Vladimir Gladstein, Viktor Vafeiadis
 
 <font size="2"><sup>*</sup>Authors had equal contribution</font>
-
-See also [dblp](https://dblp.org/pid/313/0290.html).
