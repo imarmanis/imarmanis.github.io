@@ -18,7 +18,7 @@ weak memory models.
 
 ## [Publications](https://dblp.org/pid/313/0290.html)
 
-- [Model Checking C/C++ with Mixed-Size Accesses](https://dl.acm.org/doi/10.1145/3704911)  **POPL'25, to appear**\
+- [Model Checking C/C++ with Mixed-Size Accesses](https://dl.acm.org/doi/10.1145/3704911)  **POPL'25**\
     Iason Marmanis, Michalis Kokologiannakis, Viktor Vafeiadis
 - [Spore: Combining Symmetry and Partial Order Reduction](https://dl.acm.org/doi/10.1145/3656449) **PLDI'24**\
     Michalis Kokologiannakis<sup>\*</sup>, Iason Marmanis<sup>\*</sup>, Viktor Vafeiadis
