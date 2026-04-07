@@ -8,13 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Iason and I am a fifth-year PhD Student at the
-[Max Planck Institute for Software Systems](https://www.mpi-sws.org/).
-My advisor is [Viktor Vafeiadis](https://www.mpi-sws.org/~viktor).
+Hi! I'm Iason, a PostDoc at [MPI-SWS](https://www.mpi-sws.org/).
+Earlier this year, I completed my PhD under the supervision of [Viktor Vafeiadis](https://www.mpi-sws.org/~viktor),
+where I worked on Stateless Model Checking.
 
 I'm broadly interested in programming languages and software verification,
-and more specifically in model checking concurrent software under
-weak memory models.
+with a focus on concurrency and weak memory reasoning.
 
 ## [Publications](https://dblp.org/pid/313/0290.html)
 

@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Iason Marmanis"
 title_separator          : "-"
 name                     : &name "Iason Marmanis"
-description              : &description "PhD Student at MPI-SWS"
+description              : &description "PostDoc at MPI-SWS"
 url                      : https://imarmanis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "imarmanis/imarmanis.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Iason Marmanis"
   avatar           : "profile.png"
-  bio              : "PhD Student at MPI-SWS"
+  bio              : "PostDoc at MPI-SWS"
   location         : "Kaiserslautern, Germany"
   employer         :
   pubmed           :
